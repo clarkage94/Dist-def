@@ -3,9 +3,10 @@
 }
 
 .jumbotron {
-	background-image: url("https://www.boozallen.com/content/dam/boozallen_site/sig/images/gallery/district-defend-product/district-defense-graphic-4.png");
+	background-image: url("https://www.boozallen.com/content/dam/boozallen_site/esg/images/hero/expertise-products-district-defend.jpg/jcr:content/renditions/original.jpeg.transform/1900x430/q82/feature/image.jpeg"); https://www.boozallen.com/content/dam/boozallen_site/esg/images/hero/expertise-products-district-defend.jpg/jcr:content/renditions/original.jpeg.transform/1900x430/q82/feature/image.jpeg)
+	/*background-image: url("https://www.boozallen.com/content/dam/boozallen_site/sig/images/gallery/district-defend-product/district-defense-graphic-4.png");*/
 	background-repeat: no-repeat;
-	background-position: center; 
+	background-position: center;
 	background-size; 100%;
 }
 
@@ -17,4 +18,26 @@
 .jumbotron p {
 	font-weight: bold;
 	color: white;
+}
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#header {
+   background:#ff0;
+   padding:10px;
+}
+
+#footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:250px;   /* Height of the footer */
+   background:black;
 }
