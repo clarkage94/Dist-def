@@ -1,0 +1,20 @@
+.blockquote p {
+	font-style: italic;
+}
+
+.jumbotron {
+	background-image: url("https://www.boozallen.com/content/dam/boozallen_site/sig/images/gallery/district-defend-product/district-defense-graphic-4.png");
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size; 100%;
+}
+
+.jumbotron h1 {
+	font-weight: bold;
+	color: white;
+}
+
+.jumbotron p {
+	font-weight: bold;
+	color: white;
+}
