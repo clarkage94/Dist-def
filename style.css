@@ -3,9 +3,10 @@
 }
 
 .jumbotron {
-	background-image: url("https://www.boozallen.com/content/dam/boozallen_site/sig/images/gallery/district-defend-product/district-defense-graphic-4.png");
+	background-image: url("https://www.boozallen.com/content/dam/boozallen_site/esg/images/hero/expertise-products-district-defend.jpg/jcr:content/renditions/original.jpeg.transform/1900x430/q82/feature/image.jpeg"); https://www.boozallen.com/content/dam/boozallen_site/esg/images/hero/expertise-products-district-defend.jpg/jcr:content/renditions/original.jpeg.transform/1900x430/q82/feature/image.jpeg)
+	/*background-image: url("https://www.boozallen.com/content/dam/boozallen_site/sig/images/gallery/district-defend-product/district-defense-graphic-4.png");*/
 	background-repeat: no-repeat;
-	background-position: center; 
+	background-position: center;
 	background-size; 100%;
 }
 
